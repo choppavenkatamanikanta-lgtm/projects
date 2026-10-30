@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.log
+scheduler.db
+scheduler.db-shm
+scheduler.db-wal
